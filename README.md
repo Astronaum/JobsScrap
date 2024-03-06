@@ -3,7 +3,7 @@
 **Description:**
 
 This Java project encompasses various functionalities, including data visualization, clustering for analysis, web scraping, and potential data management related to entrepreneurs and education levels.
-![Dashboard](dashboard.jpg)
+![Dashboard](dashboard.png)
 
 
 **Files:**
