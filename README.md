@@ -1,10 +1,8 @@
-I'd be glad to assist you with creating the README file, incorporating the insights from the provided ratings:
-
-**Project Name Here**
+**Jobs Scrap**
 
 **Description:**
 
-This Java project encompasses various functionalities, including data visualization, clustering for analysis, web scraping, and potential data management related to entrepreneurs and education levels (based on file names).
+This Java project encompasses various functionalities, including data visualization, clustering for analysis, web scraping, and potential data management related to entrepreneurs and education levels.
 
 **Files:**
 
@@ -35,7 +33,7 @@ This Java project encompasses various functionalities, including data visualizat
    - **Optional (for specific features):** Libraries like JavaFX for visualizations ([https://www.oracle.com/java/technologies/javase/javafx-overview.html](https://www.oracle.com/java/technologies/javase/javafx-overview.html))
 2. **Clone the repository:**
    ```bash
-   git clone https://https://github.com/Astronaum/JobsScrap.git
+   git clone https://github.com/Astronaum/JobsScrap.git
    ```
 3. **Set up dependencies (if any):**
    - Refer to a potential `requirements.txt` file for specific libraries and installation instructions.
